@@ -12,7 +12,7 @@ An advanced deepfake audio forensics system utilizing the **RawNet3** architectu
 
 ---
 
-# 📦 Dependencies
+## 📦 Dependencies
 
 | Name       | Version |
 | ---------- | ------- |
@@ -27,7 +27,7 @@ An advanced deepfake audio forensics system utilizing the **RawNet3** architectu
 
 ---
 
-# 🖥️ Requirements
+## 🖥️ Requirements
 
 ### Operating System (OS)
 
@@ -51,7 +51,7 @@ An advanced deepfake audio forensics system utilizing the **RawNet3** architectu
 
 ---
 
-# ⬇️ Installation
+## ⬇️ Installation
 
 ## 1. Create Project Directory
 
@@ -104,7 +104,7 @@ http://localhost:8501
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 ### 🎧 Audio Upload & Forensic Analysis
 
@@ -125,7 +125,7 @@ Visualize:
 
 ---
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 rawnet3_deepfake_detection/
@@ -144,7 +144,7 @@ rawnet3_deepfake_detection/
 
 ---
 
-# 🤖 Audio Processing Pipeline
+## 🏗️ Audio Processing Pipeline
 
 Before inference, the audio passes through a VoIP degradation simulation pipeline to emulate real-world voice call conditions:
 
@@ -173,7 +173,7 @@ Before inference, the audio passes through a VoIP degradation simulation pipelin
 
 ---
 
-# 🧠 Model Architecture
+## 🧠 Model Architecture
 
 ### Base Model
 
@@ -196,7 +196,7 @@ Binary classification for deepfake voice detection.
 
 ---
 
-# 📊 Performance Metrics
+## 📊 Performance Metrics
 
 Performance evaluated under simulated VoIP degradation conditions.
 
@@ -212,15 +212,15 @@ Performance evaluated under simulated VoIP degradation conditions.
 
 ---
 
-# 🥼 Author
+## 🥼 Author
 
-**Wicaksono Hanif Supriyanto**
-**Muhammad Fattah**
-**Dwi Cahyani**
+- **Wicaksono Hanif Supriyanto**
+- **Muhammad Fattah**
+- **Dwi Cahyani**
 
 ---
 
-# 📚 References
+## 📚 References
 
 1. Kim, J., Jung, J., Shim, H., & Yu, H. (2022). _RawNet3: Raw Waveform-based Speaker Verification Network with Advanced Architecture_. arXiv:2204.08486.
 
@@ -230,6 +230,6 @@ Performance evaluated under simulated VoIP degradation conditions.
 
 ---
 
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is intended for educational, research, and digital audio forensic purposes. Performance may vary under unseen real-world conditions, audio codecs, and network environments.
