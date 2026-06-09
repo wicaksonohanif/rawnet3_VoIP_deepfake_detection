@@ -226,7 +226,7 @@ Performance evaluated under simulated VoIP degradation conditions.
 
 2. Yamagishi, J., Wang, X., Todisco, M., Sahidullah, M., Patino, J., Nautsch, A., Evans, N., et al. (2021). _ASVspoof 2021: Accelerating Progress in Automatic Speaker Verification Spoofing and Countermeasures_. Proceedings of ASVspoof 2021.
 
-3. ASVspoof2021-DF Audio Dataset (Kaggle Subset) by Pratik Jodgudri.
+3. ASVspoof2021-DF Audio Dataset (Kaggle Subset) by Pratik Jodgudri. https://www.kaggle.com/datasets/pratikjodgudri/asvspoof2021-df-audio-dataset.
 
 ---
 
