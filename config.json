@@ -1,0 +1,25 @@
+{
+  "model": "RawNet3-GatedConvNext",
+  "pipeline": "VoIP/WhatsApp",
+  "target_sr": 16000,
+  "fixed_len": 48000,
+  "classes": {
+    "0": "bonafide",
+    "1": "spoofed"
+  },
+  "preprocessing": {
+    "bandpass_low_hz": 50,
+    "bandpass_high_hz": 7000,
+    "codec": "opus_simulated",
+    "bitrate_mode": "medium",
+    "loss_rate": 0.02,
+    "snr_db": 25.0,
+    "add_noise": true,
+    "add_jitter": true
+  },
+  "metrics": {
+    "accuracy": 0.8856,
+    "auc": 0.9542,
+    "eer": 0.1129
+  }
+}
