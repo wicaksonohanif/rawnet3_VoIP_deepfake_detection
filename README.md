@@ -6,9 +6,9 @@
 
 An advanced deepfake audio forensics system utilizing the **RawNet3** architecture to detect synthetic voice manipulation. This project is rigorously benchmarked for robustness against realistic VoIP network degradations and deployed via an interactive Streamlit application.
 
-**Live Demo:** Streamlit App
+**Live Demo:** [Streamlit App](https://rawnet3-aigeneratevoicedetection-49btyaj33ymc4q5ddw64hm.streamlit.app/)
 
-**Project Language:** English
+**Project Language:** En & ID
 
 ---
 
